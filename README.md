@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**Victormsfalcao/Victormsfalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi there! I'm Victor Falcão<br>🔭 I’m currently working on: web development projects involving both Front-End and Back-End, as well as data analysis solutions. I'm building apps with a focus on usability and data organization.<br><br>👯 I’m looking to collaborate on: open-source projects, social impact initiatives, and apps related to wellness, productivity, or education.<br><br>🤝 I’m looking for help with: system architecture best practices and automation using Python.<br><br>🌱 I’m currently learning: Data Engineering with Python, diving deeper into databases and modern web frameworks.<br><br>💬 Ask me about: web development (HTML, CSS, JavaScript, Python), project organization, CRUD systems, and teamwork best practices.<br><br>⚡ Fun fact: I helped create an app focused on employee mental health and burnout prevention — it made me even more passionate about connecting tech with well-being!
 
 
@@ -29,5 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=victormsfalcao&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
